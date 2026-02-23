@@ -1,31 +1,50 @@
-# 📑 Documentación de Itinerario - PROGRAMA IMPACT #INCLUDE
-**Alumno:** CARLOS LÓPEZ URBANEJA
+# PROGRAMA-IMPACT-INCLUDE
 
-Este repositorio documenta el progreso actual y las prácticas realizadas en mi entorno de laboratorio.
+**Alumno:** CARLOS LÓPEZ URBANEJA  
 
-## 1. Configuración de Entorno (Finalizado)
-* **Perfil GitHub:** Personalización con enfoque profesional y técnico.
-* **Infraestructura Blog:** Repositorio para recursos de "El Rincón de Carlos".
-
-## 2. Laboratorio de Virtualización
-He configurado un entorno de pruebas con **VirtualBox** y **VMware**. 
-
-### Sistemas requeridos por el itinerario:
-* **Windows 10 / Windows 11.**
-* **Kali Linux:** Instalación y primeros pasos en terminal.
-
-### Sistemas adicionales (Ampliación personal):
-* **Wifislax:** Herramienta para auditorías de redes inalámbricas y seguridad Wi-Fi.
-* **Metasploitable:** Preparado para futuras prácticas de seguridad y explotación.
-* **Linux Ubuntu y MS-DOS:** Configurados para pruebas de compatibilidad y sistemas operativos.
-
-## 3. Prácticas de Comandos (Completado)
-He ejecutado la totalidad de los comandos requeridos en el itinerario para ambos sistemas:
-* **Entorno Windows:** Uso de comandos en **CMD** y **PowerShell** para administración y diagnóstico.
-* **Entorno Kali Linux:** Dominio de la **terminal (consola)** ejecutando todos los comandos de sistema y red solicitados..
-
-## 4. Conceptos de Ciberseguridad
-* **Phishing, Malware y Cifrado:** Investigación teórica inicial.
+**Objetivo:** Guardar aquí mis prácticas y lo que voy aprendiendo en el curso.
 
 ---
-*Nota: Documentación en proceso. Se irá actualizando conforme avance en los siguientes módulos del itinerario.*
+
+## 1. Máquinas Virtuales (VirtualBox y VMware)
+He montado un entorno seguro para practicar sin peligro:
+
+### Sistemas del curso:
+* **Windows 10 y Windows 11.**
+* **Kali Linux:** Instalado .
+
+### Ampliación personal:
+* **Wifislax:** Para auditoría de redes Wi-Fi.
+* **Metasploitable:** Preparado para practicar ataques y seguridad.
+* **Ubuntu y MS-DOS:** Para ver cómo funcionan otros sistemas operativos.
+
+## 2. Comandos Practicados
+* **En Windows:** Manejo de **CMD** y **PowerShell** para administración.
+* **En Kali Linux:** Dominio de la **terminal** y comandos varios.
+
+
+
+
+
+## 3 Plataforma Github 
+Web:https://github.com/
+**Perfil de GitHub:** [Hackeretico1977](https://github.com/Hackeretico1977)
+
+## 1. Mis Repositorios
+* **Hackeretico1977** Mi perfil con toda mi actividad.
+* **PROGRAMA-IMPACT-INCLUDE:** Repositorio principal para el curso de ciberseguridad.
+* **mi Blog:** Espacio personal para la gestión de archivos para adjuntar a mi blog personal. **https://elrincondecarlos1977.blogspot.com/**
+
+
+## 4. Recursos de Ciberseguridad (GitHub)
+He seleccionado estos tres repositorios en español como fuentes de consulta:
+
+* **Guía de Ciberseguridad (gerardokaztro):** Conceptos básicos y defensa contra malware.  
+  [https://github.com/gerardokaztro/cybersecurity-entry-level](https://github.com/gerardokaztro/cybersecurity-entry-level)
+
+* **Recursos de Ciberseguridad (neftalito):** Gran lista de herramientas de seguridad.  
+  [https://github.com/neftalito/Recursos-ciberseguridad](https://github.com/neftalito/Recursos-ciberseguridad)
+
+* **HispanoSEC (jdiazmx):** Muy bueno para hacking ético práctico.  
+  [https://github.com/jdiazmx/HispanoSEC-Resources](https://github.com/jdiazmx/HispanoSEC-Resources)
+
