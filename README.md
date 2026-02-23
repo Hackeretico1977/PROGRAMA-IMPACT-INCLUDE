@@ -1,22 +1,31 @@
 # 📑 Documentación de Itinerario - PROGRAMA IMPACT #INCLUDE
 **Alumno:** CARLOS LÓPEZ URBANEJA
 
-Este repositorio documenta el cumplimiento de los hitos del itinerario técnico.
+Este repositorio documenta el progreso actual y las prácticas realizadas en mi entorno de laboratorio.
 
-## 1. Hito Intermedio: Configuración de Perfil
-He configurado mi perfil profesional de GitHub (`README` especial) incluyendo:
-* Título personalizado con escudo técnico.
-* Descripción de objetivos de formación en la Fundación GoodJob.
-* Enlace a mi blog externo "El Rincón de Carlos".
+## 1. Configuración de Entorno (Finalizado)
+* **Perfil GitHub:** Personalización con enfoque profesional y técnico.
+* **Infraestructura Blog:** Repositorio para recursos de "El Rincón de Carlos".
 
-## 2. Hito Intermedio+: Gestión de Recursos
-He creado un repositorio específico para la infraestructura de mi blog, donde gestiono:
-* Almacenamiento de archivos de audio (bandas sonoras).
-* Documentación en formato PDF.
+## 2. Laboratorio de Virtualización
+He configurado un entorno de pruebas con **VirtualBox** y **VMware**. 
 
-## 3. Hito Avanzado: Investigación de Ciberseguridad
-A continuación, se detallan los conceptos clave investigados:
+### Sistemas requeridos por el itinerario:
+* **Windows 10 / Windows 11.**
+* **Kali Linux:** Instalación y primeros pasos en terminal.
 
-* **Phishing:** Técnica de suplantación de identidad para robo de datos.
-* **Malware:** Software malicioso destinado a dañar o espiar sistemas.
-* **Cifrado:** Protección de datos mediante algoritmos para garantizar la privacidad.
+### Sistemas adicionales (Ampliación personal):
+* **Wifislax:** Herramienta para auditorías de redes inalámbricas y seguridad Wi-Fi.
+* **Metasploitable:** Preparado para futuras prácticas de seguridad y explotación.
+* **Linux Ubuntu y MS-DOS:** Configurados para pruebas de compatibilidad y sistemas operativos.
+
+## 3. Prácticas de Comandos (Completado)
+He ejecutado la totalidad de los comandos requeridos en el itinerario para ambos sistemas:
+* **Entorno Windows:** Uso de comandos en **CMD** y **PowerShell** para administración y diagnóstico.
+* **Entorno Kali Linux:** Dominio de la **terminal (consola)** ejecutando todos los comandos de sistema y red solicitados..
+
+## 4. Conceptos de Ciberseguridad
+* **Phishing, Malware y Cifrado:** Investigación teórica inicial.
+
+---
+*Nota: Documentación en proceso. Se irá actualizando conforme avance en los siguientes módulos del itinerario.*
