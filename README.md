@@ -74,4 +74,8 @@ El pin y certificados caducan cada dos años, el proceso de renovación a seguir
 1.lo primero es tener configurado el PDF, se va a preferencias, a la iquierda certificados de confianza que aunque en la versiones actuales de adobe reader por ejemplo ya vienen instaladas pero por si acaso se actualiza.
 2.Una vez realizadas las actualizaciones con el PDF abierto se va a herramientas  CERTIFICADOS y entonces marcamos la zona dond equeremos que aparezca la firma digital, se selecciona el certificado y ya está se guarda si se quiere en el mismo sitio donde estaba sin firmar y se sobreescribe. para ver que ha salido todo correcto desde la parte izquierada de  arriva tioene que poner firma digital valida en verde.decir que hay dos opciones permitir que despues de firmar se pueda seguir editando o no.
 
-
+### TSE Y CERTIFICADO COVID
+Gracias a estos certificados, gestiono de forma inmediata documentos oficiales sin esperas:
+* **Tarjeta Sanitaria Europea:** Solicitada a través de la Sede Electrónica de la Seguridad Social.
+* **Certificado COVID:** Descarga del PDF oficial firmado por la administración (La Meva Salut / Salud).
+* **Vida Laboral:** Obtención al momento del informe oficial en la web de la Seguridad Social mediante Cl@ve y Certificado.
