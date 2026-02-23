@@ -70,7 +70,7 @@ El pin y certificados caducan cada dos años, el proceso de renovación a seguir
 3. **Validación Biométrica:** Se introduce el DNI y se confirma la identidad con la huella dactilar para renovar los certificados y el PIN al momento.
 4. Importante si no esta caducado solo puedes renovar la contraseña sin alterar la caducudad original.
 
-** firma de un PDF
+### firma de un PDF
 1.lo primero es tener configurado el PDF, se va a preferencias, a la iquierda certificados de confianza que aunque en la versiones actuales de adobe reader por ejemplo ya vienen instaladas pero por si acaso se actualiza.
 2.Una vez realizadas las actualizaciones con el PDF abierto se va a herramientas  CERTIFICADOS y entonces marcamos la zona dond equeremos que aparezca la firma digital, se selecciona el certificado y ya está se guarda si se quiere en el mismo sitio donde estaba sin firmar y se sobreescribe. para ver que ha salido todo correcto desde la parte izquierada de  arriva tioene que poner firma digital valida en verde.decir que hay dos opciones permitir que despues de firmar se pueda seguir editando o no.
 
